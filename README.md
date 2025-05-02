@@ -5,5 +5,5 @@
 </a>
 <br><br>
 <a href="https://marisavertz.github.io/Birthday-Invite-HTML-practice/">
-  <img src="https://badgen.net/badge/View%20Project/pink">
+  <img src="https://dabuttonfactory.com/button.png?t=View+Project&f=Calibri-Bold&ts=23&tc=fff&hp=45&vp=20&w=154&h=50&c=11&bgt=unicolored&bgc=3c93a5&be=1">
 </a>
