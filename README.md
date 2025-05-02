@@ -5,5 +5,5 @@
 </a>
 <br><br>
 <a href="https://marisavertz.github.io/Birthday-Invite-HTML-practice/">
-  <img src="https://img.shields.io/badge/View_Project-💻-blueviolet?style=for-the-badge" alt="View Project">
+  <img src="https://badgen.net/badge/View%20Project/pink">
 </a>
